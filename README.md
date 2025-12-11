@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush Priyansh Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush056&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush056" /> </p>
 
-- Hi, I'm currently **pursuing CSE w/s (AI/ML) from SRM institute.**
+- Currently **pursuing CSE w/s (AI/ML) from SRM institute.**
 
 - 📫 How to reach me **pratyushpriyansh5908@gmail.com**
 
